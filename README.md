@@ -25,3 +25,10 @@ Such project can be ustilized at any checkpoint on boarders between countries or
 In this project it was noted that the use of data augmentation helped us in reducing overfitting and in increasing the size of data when it was small.
 
 also we have successfully built a model that can identify car sides.
+
+
+# Important Note:
+**Data folder, Data_no_aug folder, and CV_model.h5 were uploaded to google drive because they are too big in size to be uploaded to Github.
+Here is the link: https://drive.google.com/drive/folders/1OARRfZKIAbIGgErtCuy-b2SmX0RNLaA2?usp=sharing**
+
+**for any questions or if you face any problems please contact me on my linked-in listed in Bio.**

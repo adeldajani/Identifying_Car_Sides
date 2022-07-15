@@ -31,4 +31,6 @@ also we have successfully built a model that can identify car sides.
 **Data folder, Data_no_aug folder, and CV_model.h5 were uploaded to google drive because they are too big in size to be uploaded to Github.
 Here is the link: https://drive.google.com/drive/folders/1OARRfZKIAbIGgErtCuy-b2SmX0RNLaA2?usp=sharing**
 
+**Check ou tmy walkthrough and analysis on the model's results here: https://medium.com/@adel_dajani/can-a-computer-be-smart-enough-to-identify-car-sides-e73b6ec5ab99**
+
 **for any questions or if you face any problems please contact me on my linked-in listed in Bio.**
